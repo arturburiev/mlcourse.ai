@@ -11,6 +11,12 @@
 
 </div>
 
+----- My Note (Artur Buriev) -----
+<br>
+This repository contains the materials of the course "Open Machine Learning Course" and also notebooks with my solutions to demo tasks. Notebooks with my solutions are in the folder "jupyter_english".
+<br>
+----- End of My Note (Artur Buriev) -----
+
 [mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), led by [Yury Kashnitsky (yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures, and practice with Kaggle Inclass competitions. Currently, the course is in a **self-paced mode**. Check out a thorough [Roadmap](roadmap) guiding you through the self-paced mlcourse.ai. The Russian version of the course is resurrected and will be led by [Petr Ermakov](https://www.linkedin.com/in/ermakovpetr/). If you speak Russian, please refer to [this Open ML course](https://ods.ai/tracks/open-ml-course) launching on Feb 1st, 2022.
 
 __Bonus:__
