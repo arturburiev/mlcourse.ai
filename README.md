@@ -13,7 +13,7 @@
 
 ----- My Note (Artur Buriev) -----
 <br>
-This repository contains the materials of the course "Open Machine Learning Course" and also notebooks with my solutions to demo tasks. Notebooks with my solutions are in the folder "my_solutions".
+This repository contains the materials of the course "Open Machine Learning Course" and also notebooks with my solutions to demo tasks. Notebooks with my solutions are in the folder "jupyter_my_solutions".
 <br>
 ----- End of note -----
 
